@@ -1,7 +1,7 @@
 # AI-Assisted Climate Visualization with gander  
 ### Gu-Season Temperature Anomalies in Somaliland
 
-![Gu-Season Temperature Anomalies in Somaliland](figures/v3_final.png)
+!(figures/v3_final.png)
 
 ---
 
